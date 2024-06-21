@@ -11,7 +11,7 @@ This project is a simple implementation of the Caesar Cipher in Python. It allow
 
 ### Usage
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Navigate to the project directory:
     cd caesar-cipher
